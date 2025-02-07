@@ -1,2 +1,1 @@
-apache/skywalking-oap-server:9.7.0
-apache/skywalking-ui:9.1.0
+koordinatorsh/nginx:v1.18-koord-exmaple
